@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[80]:
 
 '''
 This code is a part of Group Big 4's APAN 4335 Machine Learning Final Project. It is attempting to
